@@ -1,9 +1,8 @@
 # Daily Progress
 
 Daily Progress – Day 2
-👤 Role
 
-Backend Developer (FastAPI + System Setup)
+👤 Role - Backend Developer (FastAPI + System Setup)
 
 🎯 Goal for Today
 

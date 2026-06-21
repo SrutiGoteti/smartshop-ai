@@ -1,6 +1,6 @@
 # Daily Progress
 
-## Daily Progress – Day 1
+## Day 1
 
 ### 👤 Role - Backend Developer (FastAPI + System Setup)
 

@@ -8,8 +8,6 @@ The system combines price comparison, review analysis, and intelligent recommend
 
 ## Problem Statement
 
-## Problem Statement
-
 Online shoppers frequently rely on ratings and reviews that may not fully reflect product quality or authenticity and doesn't guarantee the best price.
 
 To avoid this, users manually compare multiple e-commerce platforms, spending significant time evaluating price and credibility. SmartShop AI simplifies this process through automated price comparison and AI-based review analysis.
